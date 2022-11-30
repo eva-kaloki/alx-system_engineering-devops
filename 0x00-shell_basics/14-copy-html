@@ -1,2 +1,0 @@
-#!/bin/bash
-cp -n -u *.html 0-current_working_directory ..
