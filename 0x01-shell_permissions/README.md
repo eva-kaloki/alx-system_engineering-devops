@@ -3,3 +3,4 @@ Prints the effective username of user
 prints groups
 changes the owner
 creates an empty file
+adds execute permission
