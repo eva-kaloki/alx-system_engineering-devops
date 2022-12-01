@@ -5,3 +5,4 @@ changes the owner
 creates an empty file
 adds execute permission
 multiple
+multiple permissions
