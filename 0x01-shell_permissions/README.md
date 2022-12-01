@@ -8,3 +8,4 @@ multiple
 multiple permissions
 everybody script
 sets permission
+sset permission to the file
