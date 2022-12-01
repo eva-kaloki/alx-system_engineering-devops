@@ -7,3 +7,4 @@ adds execute permission
 multiple
 multiple permissions
 everybody script
+sets permission
