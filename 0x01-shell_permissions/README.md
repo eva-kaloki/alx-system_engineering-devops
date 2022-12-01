@@ -11,3 +11,4 @@ sets permission
 sset permission to the file
 set the mode
 set mode file
+script add
