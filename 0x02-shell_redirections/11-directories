@@ -1,2 +1,2 @@
-#!bin/bash
-ls -RA |wc -l
+#!/bin/bash
+ls -RA | wc -l
